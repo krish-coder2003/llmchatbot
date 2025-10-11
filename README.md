@@ -75,9 +75,6 @@ The application will now be running at `http://localhost:3000`.
 
 Feel free to fork this repository, open issues, or submit pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👤 Author
 
