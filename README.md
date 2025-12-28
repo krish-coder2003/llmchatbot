@@ -78,4 +78,4 @@ Feel free to fork this repository, open issues, or submit pull requests.
 
 ## 👤 Author
 
-* **Your Name** - [GitHub Profile Link](//github.com/krish-coder2003)
+* **krishna shrangare** - [GitHub Profile Link](//github.com/krish-coder2003)
